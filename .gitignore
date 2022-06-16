@@ -6,10 +6,11 @@ pom.xml
 pom.xml.asc
 *.jar
 *.class
-/.calva
+/.calva/output-window
 /.clj*
 /.lein-*
 /.nrepl-port
 /.prepl-port
 .hgignore
 .hg/
+.cpcache
