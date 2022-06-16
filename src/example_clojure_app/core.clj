@@ -8,4 +8,4 @@
   [& args]
   (while true
     (println "Outside Eval:" @word)
-    (eval (println "Inside Eval"))))
+    (eval '(println "Inside Eval"))))
