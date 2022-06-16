@@ -6,6 +6,8 @@ pom.xml
 pom.xml.asc
 *.jar
 *.class
+/.calva
+/.clj*
 /.lein-*
 /.nrepl-port
 /.prepl-port
